@@ -1,0 +1,22 @@
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notFoundImage {
+  width: 300px;
+  height: 300px;
+}
+.head {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.describe {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Roboto';
+}

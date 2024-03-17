@@ -1,0 +1,22 @@
+.list-item {
+  list-style-type: none;
+  margin: 30px;
+}
+.imgAndHead {
+  display: flex;
+  justify-content: space-around;
+}
+
+.imageLogo {
+  width: 100px;
+  height: 80px;
+  margin: 10px;
+}
+.head {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  align-self: center;
+  margin: 10px;
+}

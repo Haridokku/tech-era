@@ -1,0 +1,12 @@
+.headerContainer {
+  background-color: #f1f5f9;
+  height: 20vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+.logo {
+  width: 200px;
+  height: 150px;
+}
